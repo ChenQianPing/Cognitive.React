@@ -80,6 +80,13 @@
     <Content Include="demo03.html" />
     <Content Include="demo04.html" />
     <Content Include="demo05.html" />
+    <Content Include="demo06.html" />
+    <Content Include="demo07.html" />
+    <Content Include="demo08.html" />
+    <Content Include="demo09.html" />
+    <Content Include="demo10.html" />
+    <Content Include="demo11.html" />
+    <Content Include="demo12.html" />
     <Content Include="js\browser.min.js" />
     <Content Include="js\jquery.min.js" />
     <Content Include="js\JSXTransformer.js" />
